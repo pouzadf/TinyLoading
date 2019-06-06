@@ -1,6 +1,6 @@
 # TinyLoading
 
-TinyLoading is a flexible and reliable asynchronous image loading library. It provides simple streamlined public API for a better user experience. TinyLoading implements caching and thrading logic in order to load as fast as possible requested images. Images can be requested from Urls, Files or Resources.
+TinyLoading is a flexible and reliable asynchronous image loading library. It provides simple streamlined public API for a better user experience. TinyLoading uses caching and threading logic in order to load as fast as possible requested images. Images can be load from Urls, Files or Resources.
 
 # Compatibility
 * TinyLoading is available for Android SDK 15 and above.

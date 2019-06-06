@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algolia.iml" filepath="$PROJECT_DIR$/Algolia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinyLoading/TinyLoading.iml" filepath="$PROJECT_DIR$/TinyLoading/TinyLoading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinyLoadingExample/TinyLoadingExample.iml" filepath="$PROJECT_DIR$/TinyLoadingExample/TinyLoadingExample.iml" />
+    </modules>
+  </component>
+</project>

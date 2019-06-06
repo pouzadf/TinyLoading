@@ -1,11 +1,11 @@
-#TinyLoading
+# TinyLoading
 
 TinyLoading is a flexible and reliable asynchronous image loading library. It provides simple streamlined public API for a better user experience. TinyLoading implements caching and thrading logic in order to load as fast as possible requested images. Images can be requested from Urls, Files or Resources.
 
-#Compatibility
+# Compatibility
 * TinyLoading is available for Android SDK 15 and above.
 
-#Usage
+# Usage
 A simple usage would be to load an image from an url into a specific view.
 
 ```java
@@ -53,7 +53,7 @@ public View getView(final int position, View convert_view, ViewGroup parent) {
     }
 ```
 
-###Cancel
+### Cancel
 TinyLoading provides an easy way to cancel any request targeting specific View.
 ```java
 public class MainActivity extends AppCompatActivity {
@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-###Fallback
+### Fallback
 User can set a default image to fill the view with if the fetching request fails.
 
 ```java
@@ -93,4 +93,10 @@ Drawable replacement = ContextCompat.getDrawable(c,R.drawable.id)
                 .into(iw);
 ````
 More features available in the [documentation](http://134.209.64.203/).
+
+# Example
+A simple example is available in TinyLoadingExample directory.
+
+# Author
+Florian Pouzada
 
